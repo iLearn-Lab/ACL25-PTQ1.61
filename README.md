@@ -3,15 +3,15 @@
    <img src="./assets/optimus3.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>PTQ1.61: Push the Real Limit of Extremely Low-Bit Post-Training Quantization Methods for Large Language Models </b>
 </h2>
 <div>
-<a target="_blank" href="https://scholar.google.com/citations?user=TDBF2UoAAAAJ&hl=en&oi=ao">Jiaqi&#160;Zhao</a><sup>1</sup>,
-<a target="_blank" href="https://scholar.google.com/citations?user=KO77A2oAAAAJ&hl=en">Miao&#160;Zhang</a><sup>1&#9993</sup>,
-<a target="_blank" href="https://scholar.google.com/citations?user=9Vc--XsAAAAJ&hl=en&oi=ao">Ming&#160;Wang</a><sup>1</sup>,
-<a target="_blank" href="https://scholar.google.com/citations?user=Mpg0w3cAAAAJ&hl=en&oi=ao">Yuzhang&#160;Shang</a><sup>2</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=lrJ0VWYAAAAJ&hl=zh-CN">Jiaqi&#160;Zhao</a><sup>1</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=6EUV_UMAAAAJ&hl=en">Miao&#160;Zhang</a><sup>1&#9993</sup>,
+<a target="_blank" href="https://aclanthology.org/people/ming-wang/unverified/">Ming&#160;Wang</a><sup>1</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN">Yuzhang&#160;Shang</a><sup>2</sup>,
 <br>
-<a target="_blank" href="https://ieeexplore.ieee.org/author/37087008154">Kaihaoi&#160;Zhang</a><sup>1</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=eqwDXdMAAAAJ&hl=en">Kaihaoi&#160;Zhang</a><sup>1</sup>,
 <a target="_blank" href="https://ieeexplore.ieee.org/author/37087008154">Weili&#160;Guan</a><sup>1</sup>,
-<a target="_blank" href="https://scholar.google.com/citations?hl=en&user=Awsue7sAAAAJ">Yaowei&#160;Wang</a><sup>2</sup>,
- <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ">Min&#160;Zhang</a><sup>1</sup>
+<a target="_blank" href="https://scholar.google.com/citations?user=o_DllmIAAAAJ&hl=zh-CN">Yaowei&#160;Wang</a><sup>2</sup>,
+ <a target="_blank" href="https://scholar.google.com/citations?user=CncXH-YAAAAJ&hl=en">Min&#160;Zhang</a><sup>1</sup>
 </div>
 <sup>1</sup>Harbin Institute of Technology, Shenzhen&#160&#160&#160</span>
 <sup>2</sup>Illinois Institute of Technology</span>
