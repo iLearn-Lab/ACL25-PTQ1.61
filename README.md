@@ -5,7 +5,7 @@
 <div>
 <a target="_blank" href="https://scholar.google.com/citations?user=lrJ0VWYAAAAJ&hl=zh-CN">Jiaqi&#160;Zhao</a><sup>1</sup>,
 <a target="_blank" href="https://scholar.google.com/citations?user=6EUV_UMAAAAJ&hl=en">Miao&#160;Zhang</a><sup>1&#9993</sup>,
-<a target="_blank" href="https://aclanthology.org/people/ming-wang/unverified/">Ming&#160;Wang</a><sup>1</sup>,
+<a target="_blank" href="https://ieeexplore.ieee.org/author/37086659842">Ming&#160;Wang</a><sup>1</sup>,
 <a target="_blank" href="https://scholar.google.com/citations?user=6ZPL5E0AAAAJ&hl=zh-CN">Yuzhang&#160;Shang</a><sup>2</sup>,
 <br>
 <a target="_blank" href="https://scholar.google.com/citations?user=eqwDXdMAAAAJ&hl=en">Kaihaoi&#160;Zhang</a><sup>1</sup>,
