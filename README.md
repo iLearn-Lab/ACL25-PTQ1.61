@@ -1,4 +1,28 @@
-# PTQ1.61
+<div align="center">
+<h2 align="center">
+   <img src="./assets/optimus3.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>PTQ1.61: Push the Real Limit of Extremely Low-Bit Post-Training Quantization Methods for Large Language Models </b>
+</h2>
+<div>
+<a target="_blank" href="https://scholar.google.com/citations?user=TDBF2UoAAAAJ&hl=en&oi=ao">Jiaqi&#160;Zhao</a><sup>1</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=KO77A2oAAAAJ&hl=en">Miao&#160;Zhang</a><sup>1&#9993</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=9Vc--XsAAAAJ&hl=en&oi=ao">Ming&#160;Wang</a><sup>1&#9993</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=Mpg0w3cAAAAJ&hl=en&oi=ao">Yuzhang&#160;Shang</a><sup>2</sup>,
+<br>
+<a target="_blank" href="https://ieeexplore.ieee.org/author/37087008154">Kaihaoi&#160;Zhang</a><sup>1</sup>,
+<a target="_blank" href="https://ieeexplore.ieee.org/author/37087008154">Weili&#160;Guan</a><sup>1</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?hl=en&user=Awsue7sAAAAJ">Yaowei&#160;Wang</a><sup>2</sup>,
+ <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ">Min&#160;Zhang</a><sup>1&#9993</sup>
+</div>
+<sup>1</sup>Harbin Institute of Technology, Shenzhen&#160&#160&#160</span>
+<sup>2</sup>Illinois Institute of Technology</span>
+<br />
+<sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
+<br/>
+<div align="center">
+    <a href="https://aclanthology.org/2025.acl-long.225.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
+</div>
+</div>
 
 ## Block-wise Optimization and Evaluation
 We use LLaMa-7B as an example here:
